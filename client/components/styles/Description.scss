@@ -1,0 +1,21 @@
+.content {
+  width: 100%;
+  background: repeat fixed url('./background_noise_1.png');
+  padding-bottom: 1em;
+}
+
+.header {
+  width: 100%;
+  background-color: white;
+  height: 3em;
+  box-shadow: 0px 0px 8px #666666;
+  text-align: center;
+  line-height: 3em;
+}
+
+.title {
+  padding: 0;
+  margin: 0;
+  color: #3385ff;
+  font-family: 'Lato', sans-serif;
+}

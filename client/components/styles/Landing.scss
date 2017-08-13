@@ -1,0 +1,61 @@
+.content {
+  background: fixed repeat url('./background_noise.png');
+  height: 80vh;
+  width: 100%;
+  transition: background .5s;
+  padding-top: 4.5em;
+}
+
+.inner {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.left {
+  display: inline-block;
+  width: 55%;
+  vertical-align: top;
+  font-size: 2.25em;
+  color: white;
+  margin-top: 2em;
+  position: relative;
+}
+
+.right {
+  display: inline-block;
+  width: 45%;
+  height: 80vh;
+  vertical-align: top;
+  overflow: hidden;
+}
+
+.hook {
+  font-weight: normal;
+  width: 90%;
+  font-size: 1.75em;
+}
+
+.catch {
+  font-weight: normal;
+  font-size: .75em;
+  width: 90%;
+  font-family: 'Lato', sans-serif;
+}
+
+.cont {
+  width: 100%;
+  height: 100%;
+}
+
+.image {
+  height: 100%;
+  width: 100%;
+  background: no-repeat url('./pc.png');
+  transition: background .5s;
+}
+
+.image:hover {
+  background: no-repeat url('./pc1.png');
+  transition: background .5s;
+}

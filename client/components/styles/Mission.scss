@@ -1,0 +1,72 @@
+.content {
+  width: 100%;
+  padding-bottom: 3em;
+  background: fixed repeat url('./background_noise_2.png');
+}
+
+.header {
+  width: 100%;
+  text-align: center;
+  box-shadow: 0px 0px 8px #888888;
+  height: 3em;
+  line-height: 3em;
+  background-color: white;
+}
+
+.title {
+  margin: 0;
+  color: #3385ff;
+  font-family: 'Lato', sans-serif;
+}
+
+.statement {
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  box-shadow: 0px 0px 8px #666666;
+  font-family: 'Lato', sans-serif;
+  margin-top: 2em;
+  background-color: white;
+}
+
+.intro {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.2em;
+  padding-bottom: 1em;
+}
+
+.sectionTitle {
+  font-size: 1.5em;
+  text-align: center;
+  margin: 0;
+  margin-top: 1em;
+  color: #3385ff;
+}
+
+.contact {
+  width: 60%;
+  margin: 0;
+  margin-top: .5em;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.intro2 {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.2em;
+}
+
+.image {
+  width: 100%;
+  box-shadow: 0px 0px 8px #888888;
+}
+
+.arrow {
+  width: 32px;
+}
